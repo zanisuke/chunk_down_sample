@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FBAE1D03-4646-3FF6-332F-4BBF08455FF8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "sample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
